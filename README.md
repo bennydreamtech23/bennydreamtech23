@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 WEB DEVELOPER
 -------------
 
-Hello my wonderful universe, I amBenedicta, a frontend developer that loves building cool, creative and beautiful user interface. I work with frontend framework such React, Redux Toolkit, Bootstrap for css styling. Programming Language such as javascript, Html5, Css and Scss
+Hello my wonderful universe, I am Benedicta, a frontend developer that loves building cool, creative and beautiful user interface. I work with frontend framework such React, Redux Toolkit, Bootstrap for css styling. Programming Language such as javascript, Html5, Css and Scss
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [benedictaportfolio.netlify.app](http://benedictaportfolio.netlify.app)
