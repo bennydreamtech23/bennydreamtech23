@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Benedicta
 =================================================================================================================================
 
-WEB DEVELOPER
+Elixir Developer
 -------------
 
-Hello my wonderful universe, I am Benedicta, a frontend developer and a new fresh Elixir developer that loves building cool, creative and beautiful user interface. I work with frontend framework such React, Redux Toolkit, Bootstrap for css styling. Programming Language such as Elixir, Phoenix Liveview framework, Javascript, Html5, Css and Scss. I also work with Elixir for building project both in the user interface and backend structure.
+I am Benedicta Uwabunkeonye, a dedicated and creative problem solver with strong analytical and communication skills. As a developer with keen expertise in programming languages like JavaScript, React, and Elixir, I am currently focused on advancing my Elixir skills to become a senior full-stack developer in the language.
+
+I am committed to personal and professional growth, constantly pushing myself to achieve goals and expand my knowledge. My passion for learning and continuous improvement drives me to excel in everything I do.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [benedictaportfolio.netlify.app](http://benedictaportfolio.netlify.app)
