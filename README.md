@@ -9,7 +9,7 @@ I am Benedicta Uwabunkeonye, a dedicated and creative problem solver with strong
 I am committed to personal and professional growth, constantly pushing myself to achieve goals and expand my knowledge. My passion for learning and continuous improvement drives me to excel in everything I do.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [benedictaportfolio.netlify.app](http://benedictaportfolio.netlify.app)
+* 🖥️  See my portfolio at [benedictaportfolio.netlify.app](https://bennyfolio.netlify.app)
 * ✉️  You can contact me at [uwabunkeonyeijeoma@gmail.com](mailto:uwabunkeonyeijeoma@gmail.com)
 * 🤝  I'm open to collaborating on any kind of project
 * ⚡  i love anime keep it a secret okay
